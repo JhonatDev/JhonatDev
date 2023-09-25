@@ -1,6 +1,5 @@
 Oii! eu sou o Jhonatan Eduardo
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatDev)](https://github.com/JhonatDev/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatDev&show_icons=true)
 
 <div style="display: inline_block"><br>
