@@ -1,6 +1,6 @@
 Oii! eu sou o Jhonatan Eduardo
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatDev&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
