@@ -1,7 +1,7 @@
 Oii! eu sou o Jhonatan Eduardo
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatDev)](https://github.com/JhonatDev/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhonatDev&show_icons=true)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
